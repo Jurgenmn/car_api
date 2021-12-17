@@ -3,7 +3,7 @@ A car REST API that supports CRUD operations
 
 
 # GET all cars
-sh```
+```js
 curl localhost:3000/cars
 [
   {
